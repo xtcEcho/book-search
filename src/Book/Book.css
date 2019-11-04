@@ -1,0 +1,17 @@
+.Book {
+    width: 80%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+
+    /* overflow: hidden; */
+}
+
+.book-img {
+    flex: 1;
+}
+
+.book-text {
+    flex: 2;
+}
